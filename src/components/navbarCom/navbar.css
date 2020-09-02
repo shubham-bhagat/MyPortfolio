@@ -1,0 +1,92 @@
+.navback {
+  background-color: #101010;
+  height: 90px;
+}
+.Stytext {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.clr */ {
+  color: white;
+}
+.nav-link:hover {
+  font-size: 15px;
+}
+.text-color:hover {
+  color: red;
+}
+*/ .incCard:hover {
+  width: 1200px;
+  background-color: brown;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+.jumbotron {
+  background: rgba(56, 54, 54, 0.733);
+}
+
+.move {
+  background-color: white;
+  transition: all 1s linear;
+}
+
+p {
+  font-family: Roboto;
+}
+
+.width_fix {
+  width: 200px;
+  height: 30px;
+}
+
+.opac {
+  opacity: 0.5;
+}
+
+.card:hover {
+  background: linear-gradient(
+    to right,
+    rgba(13, 13, 43, 0.863) 50%,
+    rgba(228, 5, 5, 0.884)
+  );
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all 0.5s ease-out;
+}
+
+.card-text {
+  font-size: 20px;
+}
+.btnAllign {
+  margin-top: 20px;
+  /* margin-left:150px; */
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.backgnd {
+  height: 780px;
+}
+.appear {
+  display: absolute;
+  transition: display 2s;
+}
